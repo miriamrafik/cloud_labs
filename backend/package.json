@@ -4,7 +4,8 @@
   "description": "Starter application used across the Cloud Computing and Cloud Security \r labs. \r ## Lab 1 - Development environment verified - Static HTML structure created - CSS interface created - Git repository prepared",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "dev": "node --watch server.js"
   },
   "keywords": [],
   "author": "",
