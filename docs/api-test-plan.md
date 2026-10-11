@@ -48,9 +48,3 @@ Once the Lab 4 implementation is complete:
 3. Record pass/fail results and investigate any deviations.
 4. Treat all acceptance criteria as requirements unless the API
    contract is explicitly revised.
-
-## Professional Practice
-
-Writing tests before implementation clarifies ambiguous requirements,
-documents expected behavior, and provides a repeatable way to verify
-correctness. This test plan is the acceptance checklist for Lab 4.
